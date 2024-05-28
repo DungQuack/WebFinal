@@ -52,15 +52,18 @@
                     <a href="package.php" class="btn">discovery more</a>
                 </div>
             </div>
+            <div class="swiper-slide slide" style="background: url(/picture/giamgia.png) no-repeat">
+                <div class="content">
+                    <span>SIEU UU DAI</span>
+                    <h3>TANG VOUCHER SIEU KHUNG</h3>
+                    <a href="package.php" class="btn">discovery more</a>
+                </div>
+            </div>
         </div>
         <div class="swiper-button-next"></div>
         <div class="swiper-button-prev"></div>
     </div>
 </section>
-
-
-
-
 
 
 
@@ -82,6 +85,25 @@
         </div>
     </div>
 </section>
+
+<section class="home-about">
+    <div class="image">
+        <img src="picture/Hotel.jpg" alt="">
+    </div>
+    <div class="content">
+        <h3>about us </h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, quia minus! Nobis reprehenderit, recusandae harum doloribus eum tempora pariatur sunt ratione atque tenetur, cumque accusantium esse animi voluptate, quod quae.
+        </p>
+        <a href="about.php" class="btn">read more</a>
+    </div>
+</section>
+
+
+
+
+
+
 
 
         
