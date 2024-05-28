@@ -26,7 +26,7 @@
 
         <div id="menu-btn" class="fas fa-bars"></div>
     
-<div class="heading" style="background:url(AboutUs.jpg) no-repeat"><h1>packages</h1></div>
+<div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>packages</h1></div>
 
 
 <section class="footer">

@@ -25,6 +25,65 @@
         <div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
+
+
+<section class="home">
+    <div class="swiper home-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide slide" style="background: url(/picture/Hotel.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, relaxing</span>
+                    <h3>Travel around the world</h3>
+                    <a href="package.php" class="btn">discovery more</a>
+                </div>
+            </div>
+
+            <div class="swiper-slide slide" style="background: url(/picture/Hotel.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, relaxing</span>
+                    <h3>discover new place</h3>
+                    <a href="package.php" class="btn">discovery more</a>
+                </div>
+            </div>
+            <div class="swiper-slide slide" style="background: url(/picture/apartment.jpg) no-repeat">
+                <div class="content">
+                    <span>explore, discover, relaxing</span>
+                    <h3>make your vacation better</h3>
+                    <a href="package.php" class="btn">discovery more</a>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+<section class="services">
+    <h1 class="heading-title">our service</h1>
+    <div class="box-container">
+        <div class="box">
+            <img src="picture/Hotel.jpg" alt="">
+            <h3>Hotels</h3>
+        </div>
+        <div class="box">
+            <img src="picture/Hotel.jpg" alt="">
+            <h3>villas</h3>
+        </div>
+        <div class="box">
+            <img src="picture/apartment1.jpg" alt="">
+            <h3>apartment</h3>
+        </div>
+    </div>
+</section>
+
+
         
 
 
