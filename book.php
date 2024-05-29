@@ -15,18 +15,17 @@
     </head>
     <body>
         <section class="header">
-            <a href="home.php" class="logo">Hotel booking</a>
+            <a href="home.php" class="logo">KaFiQuack Booking</a>
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="book.php">book</a>
             <a href="package.php">package</a>
         </nav>
 </section>
 
         <div id="menu-btn" class="fas fa-bars"></div>
     
-<div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>Book now</h1></div>
+<div class="heading" style="background:url(picture/book.webp) no-repeat"><h1>Book now</h1></div>
 
 <section class="booking">
 

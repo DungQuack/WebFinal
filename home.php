@@ -15,11 +15,10 @@
     </head>
     <body>
         <section class="header">
-            <a href="home.php" class="logo">Hotel booking</a>
+            <a href="home.php" class="logo">KaFiQuack Booking</a>
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="book.php">book</a>
             <a href="package.php">package</a>
         </nav>
         <div id="menu-btn" class="fas fa-bars"></div>
@@ -30,33 +29,33 @@
 <section class="home">
     <div class="swiper home-slider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide slide" style="background: url(/picture/Hotel.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background: url(picture/1523962060-637-7-1523961593-width650height433.jpeg) no-repeat">
                 <div class="content">
                     <span>explore, discover, relaxing</span>
                     <h3>Travel around the world</h3>
-                    <a href="package.php" class="btn">discovery more</a>
+                    <a href="package.php" class="btn">Booking now</a>
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background: url(/picture/Hotel.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background: url(picture/sale.jpeg) no-repeat">
                 <div class="content">
-                    <span>explore, discover, relaxing</span>
-                    <h3>discover new place</h3>
-                    <a href="package.php" class="btn">discovery more</a>
+                    <span></span>
+                    <h3></h3>
+                    <a href="package.php" class="btn">Booking now</a>
                 </div>
             </div>
-            <div class="swiper-slide slide" style="background: url(/picture/apartment.jpg) no-repeat">
+            <div class="swiper-slide slide" style="background: url(picture/salehe.jpeg) no-repeat">
                 <div class="content">
-                    <span>explore, discover, relaxing</span>
-                    <h3>make your vacation better</h3>
-                    <a href="package.php" class="btn">discovery more</a>
+                    <span style="color:blue;">up to 50%</span>
+                    <h3 style="color: aqua;">Summer sale </h3>
+                    <a href="package.php" class="btn">Booking now</a>
                 </div>
             </div>
-            <div class="swiper-slide slide" style="background: url(/picture/giamgia.png) no-repeat">
+            <div class="swiper-slide slide" style="background: url(picture/beach.jpeg) no-repeat">
                 <div class="content">
-                    <span>SIEU UU DAI</span>
-                    <h3>TANG VOUCHER SIEU KHUNG</h3>
-                    <a href="package.php" class="btn">discovery more</a>
+                    <span>SUPER SALE</span>
+                    <h3>MORE THAN 300 GIFT</h3>
+                    <a href="package.php" class="btn">Booking now</a>
                 </div>
             </div>
         </div>
@@ -69,82 +68,90 @@
 
 
 <section class="services">
-    <h1 class="heading-title">our service</h1>
+    <h1 class="heading-title">our service
+    </h1>
     <div class="box-container">
         <div class="box">
-            <img src="picture/Hotel.jpg" alt="">
-            <h3>Hotels</h3>
+            <img src="picture/SPA.jpeg" alt="">
+            <h3>SPA</h3>
         </div>
         <div class="box">
-            <img src="picture/Hotel.jpg" alt="">
-            <h3>villas</h3>
+            <img src="picture/PARKINGLOT.jpeg" alt="">
+            <h3>PARKING LOT</h3>
         </div>
         <div class="box">
-            <img src="picture/apartment1.jpg" alt="">
-            <h3>apartment</h3>
+            <img src="picture/AQUA.jpeg" alt="">
+            <h3>AQUARIUM</h3>
         </div>
     </div>
 </section>
 
-<section class="home-about">
-    <div class="image">
-        <img src="picture/Hotel.jpg" alt="">
-    </div>
-    <div class="content">
-        <h3>about us </h3>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, quia minus! Nobis reprehenderit, recusandae harum doloribus eum tempora pariatur sunt ratione atque tenetur, cumque accusantium esse animi voluptate, quod quae.
-        </p>
-        <a href="about.php" class="btn">read more</a>
-    </div>
-</section>
+
+
 
 
 <section class="home-packages">
-    <h1 class="heading">Our packages</h1>
+    <h1 class="heading">Best of month</h1>
     <div class="box-container">
 
         <div class="box">
             <div class="image">
-                <img src="picture/AboutUs.jpg" alt="">
+                <img src="picture/VinRoom.jpeg" alt="">
             </div>
             <div class="content">
                 <h3>
-                    Hotel
+                    Vinpearl (Nha Trang,VietNam)
                 </h3>
-                <p>Khach san dep vcl</p>
-                <a href="book" class="btn">Book now</a>
+                <p>912,374 booked</p>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <a href="book.php" class="btn">Book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/AboutUs.jpg" alt="">
+                <img src="picture/goden.jpeg" alt="">
             </div>
             <div class="content">
                 <h3>
-                    Hotel
+                Four Seasons Golden Triangle (Thai)
                 </h3>
-                <p>Khach san dep vcl</p>
-                <a href="book" class="btn">Book now</a>
+                <div>
+                <p>892,131 booked</p>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                </div>
+                <a href="book.php" class="btn">Book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/AboutUs.jpg" alt="">
+                <img src="picture/PhuQuoc.webp" alt="">
             </div>
             <div class="content">
                 <h3>
-                    Hotel
+                    JW Marriott (Phu Quoc,VietNam)
                 </h3>
-                <p>Khach san dep vcl</p>
-                <a href="book" class="btn">Book now</a>
+                <p>612,387 booked</p>
+                <a href="book.php" class="btn">Book now</a>
             </div>
         </div>
     </div>
     <div class="load-more"><a href="package.php" class="btn">load more</a></div>
 </section>
+
+
 
 <section class="home-offer">
     <div class="content">
@@ -155,6 +162,26 @@
         <a href="book.php" class="btn">Book now</a>
     </div>
 </section>
+
+
+
+<section class="home-about">
+    <div class="image">
+        <img src="picture/AboutUs.jpg" alt="">
+    </div>
+    <div class="content">
+        <h3>about us </h3>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat explicabo quaerat in dolorem quas amet. Fuga laboriosam magnam, et dolores non velit iusto molestiae doloremque quos rem sint id ducimus laudantium porro cumque maxime voluptatum nesciunt inventore vel mollitia laborum? Quis, suscipit! Id in voluptatem ex, at tempora ut doloremque repudiandae blanditiis nobis est eaque earum eos! Veritatis rerum esse enim? Earum maiores nihil sint esse culpa sapiente repudiandae totam ut quod praesentium vel mollitia nemo nostrum soluta excepturi repellat distinctio, sequi ipsa dolore tempore. Iste reprehenderit in, delectus non ipsa inventore eaque hic adipisci perspiciatis. Nobis consequatur laboriosam voluptate.
+        </p>
+        <a href="about.php" class="btn">read more</a>
+    </div>
+</section>
+
+
+
+
+
 
 
 

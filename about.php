@@ -15,18 +15,17 @@
     </head>
     <body>
         <section class="header">
-            <a href="home.php" class="logo">Hotel booking</a>
+            <a href="home.php" class="logo">KaFiQuack Booking</a>
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="book.php">book</a>
             <a href="package.php">package</a>
         </nav>
 </section>
 
         <div id="menu-btn" class="fas fa-bars"></div>
     
-<div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>about us</h1></div>
+<div class="heading" style="background:url(picture/hoboi.jpeg) no-repeat"><h1>about us</h1></div>
 
 <section class="about">
     <div class="image">
@@ -72,9 +71,9 @@
 
                 </div>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
-                <h3> khon demo</h3>
-                <span>traveler</span>
-                <img src="picture/Hotel.jpg" alt="">
+                <h3> Dung</h3>
+                <span>Dev</span>
+                <img src="picture/dung.jpg" alt="">
 
             </div>
             <div class="swiper-slider slide">
@@ -83,27 +82,23 @@
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
 
                 </div>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
-                <h3> khon demo</h3>
-                <span>traveler</span>
-                <img src="picture/Hotel.jpg" alt="">
+                <h3> Phat</h3>
+                <span>Auto Tester</span>
+                <img src="picture/Phat.jpg" alt="">
                 
             </div>
             <div class="swiper-slider slide">
                 <div class="stars">
                     <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
 
                 </div>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
-                <h3> khon demo</h3>
-                <span>traveler</span>
-                <img src="picture/Hotel.jpg" alt="">
+                <h3>KaFi</h3>
+                <span>Dev</span>
+                <img src="picture/Phi.jpg" alt="">
                 
             </div>
         </div>

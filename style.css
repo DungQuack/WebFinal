@@ -92,6 +92,7 @@ section{
 
 
 
+
 .header{
     position: sticky;
     top:0; left:0; right:0;
@@ -268,6 +269,9 @@ section{
 .home-packages .load-more{
     text-align: center;
     margin-top: 2rem;
+}
+.home-packages h1{
+    font-size: 6rem;
 }
 
 .home-offer{
@@ -505,7 +509,7 @@ section{
 
 
 .footer{
-    background: url(picture/recp2.jpg) no-repeat;
+    background: url(picture/footer.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -523,7 +527,7 @@ section{
 
 
 .footer .box-container .box a{
-    color: var(--light-white);
+    color:rgb(81, 226, 170);
     font-size: 1.5rem;
     padding-bottom: 1rem;
     display: block;

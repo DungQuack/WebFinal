@@ -15,18 +15,17 @@
     </head>
     <body>
         <section class="header">
-            <a href="home.php" class="logo">Hotel booking</a>
+            <a href="home.php" class="logo">KaFiQuack Booking</a>
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="book.php">book</a>
             <a href="package.php">package</a>
         </nav>
 </section>
 
         <div id="menu-btn" class="fas fa-bars"></div>
     
-<div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>packages</h1></div>
+<div class="heading" style="background:url(picture/footerimg.webp) no-repeat"><h1>packages</h1></div>
 
 <section class="packages">
     <h1 class="heading-title">top destinations</h1>
@@ -35,145 +34,104 @@
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/VinRoom.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>1</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Vinpearl (Nha Trang,VietNam)</h3>
+                <p>1382-8992$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/goden.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>2</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Four Seasons Golden Triangle (Thai)</h3>
+                <p>25000-40000$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/PhuQuoc.webp" alt="">
             </div>
             <div class="content">
-                <h3>3</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>JW Marriott (Phu Quoc,VietNam)</h3>
+                <p>7689-9200$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/sala.webp" alt="">
             </div>
             <div class="content">
-                <h3>4</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Sala Danang Beach(Da Nang, VietNam)</h3>
+                <p>6500-8800$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/haLong.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>5</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Paradise Elegance (Ha Long)</h3>
+                <p>1382-8992$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/hosh.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>6</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Hoshinoya Karuizawa (Japan)</h3>
+                <p>4704-6999$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/alila.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>7</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Alila Villas Soori (Indonesia)</h3>
+                <p>30000 150000$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/sapa.png" alt="">
             </div>
             <div class="content">
-                <h3>8</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Ville De Mont Mountain Resort</h3>
+                <p>6999-9000$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
         <div class="box">
             <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
+                <img src="picture/pre.jpeg" alt="">
             </div>
             <div class="content">
-                <h3>9</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <h3>Hotel President Wilson(Swi)</h3>
+                <p>3500-6999$/night</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
         </div>
 
-        <div class="box">
-            <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
-            </div>
-            <div class="content">
-                <h3>10</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
-                <a href="book.php" class="btn">book now</a>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
-            </div>
-            <div class="content">
-                <h3>11</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
-                <a href="book.php" class="btn">book now</a>
-            </div>
-        </div>
-
-        <div class="box">
-            <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
-            </div>
-            <div class="content">
-                <h3>12</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
-                <a href="book.php" class="btn">book now</a>
-            </div>
-        </div>
-        <div class="box">
-            <div class="image">
-                <img src="picture/Hotel.jpg" alt="">
-            </div>
-            <div class="content">
-                <h3>13</h3>
-                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
-                <a href="book.php" class="btn">book now</a>
-            </div>
-        </div>
+        
     </div>
     <div class="load-more"><span class="btn">load more</span></div>
 </section>

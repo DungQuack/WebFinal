@@ -1,6 +1,6 @@
-<?
+<?php
 
-$connection = mysqli_connect('localhost','root','','book');
+$connection = mysqli_connect('localhost','root','','book_db');
 
 if(isset($_POST['send'])){
     $name = $_POST['name'];
@@ -9,11 +9,11 @@ if(isset($_POST['send'])){
     $address = $_POST['address'];
     $location = $_POST['location'];
     $guests = $_POST['guests'];
-    $arrvals = $_POST['arrvals'];
+    $arrivals = $_POST['arrivals'];
     $leaving = $_POST['leaving'];
 
-    $request = " insert into book-form(name, email,	phone, address, location, guests,  arrivals, leaving) values
-    ('$name','$email','$phone', '$address', '$location', '$guests', '$arrvals', '$leaving') ";
+    $request = " insert into book_form(name, email,	phone, address, location, guests,  arrivals, leaving) values
+    ('$name','$email','$phone', '$address', '$location', '$guests', '$arrivals', '$leaving') ";
 
     mysqli_query($connection, $request);
 
