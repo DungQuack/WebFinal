@@ -100,13 +100,56 @@
 </section>
 
 
+<section class="home-packages">
+    <h1 class="heading">Our packages</h1>
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/apartment1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>
+                    Hotel
+                </h3>
+                <p>Khach san dep vcl</p>
+                <a href="book" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/apartment1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>
+                    Hotel
+                </h3>
+                <p>Khach san dep vcl</p>
+                <a href="book" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/apartment1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>
+                    Hotel
+                </h3>
+                <p>Khach san dep vcl</p>
+                <a href="book" class="btn">Book now</a>
+            </div>
+        </div>
+    </div>
+    <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+</section>
 
 
 
 
 
-
-        
 
 
 <section class="footer">
