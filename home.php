@@ -106,7 +106,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="picture/apartment1.jpg" alt="">
+                <img src="picture/AboutUs.jpg" alt="">
             </div>
             <div class="content">
                 <h3>
@@ -119,7 +119,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="picture/apartment1.jpg" alt="">
+                <img src="picture/AboutUs.jpg" alt="">
             </div>
             <div class="content">
                 <h3>
@@ -132,7 +132,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="picture/apartment1.jpg" alt="">
+                <img src="picture/AboutUs.jpg" alt="">
             </div>
             <div class="content">
                 <h3>
@@ -144,6 +144,16 @@
         </div>
     </div>
     <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+</section>
+
+<section class="home-offer">
+    <div class="content">
+        <h3>
+            up to 50% off
+        </h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi, aspernatur quibusdam aliquam vel id accusantium exercitationem, consequatur nostrum illum minus totam voluptatum ipsum eveniet, dignissimos enim. Quis velit odit porro.</p>
+        <a href="book.php" class="btn">Book now</a>
+    </div>
 </section>
 
 
