@@ -28,6 +28,42 @@
     
 <div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>about us</h1></div>
 
+<section class="about">
+    <div class="image">
+        <img src="picture/AboutUs.jpg" alt="">
+    </div>
+    <div class="content">
+        <h3>Why chon chung toi</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste magnam, eaque omnis, fugit accusantium quo optio ipsam non neque illo maxime repellendus doloremque voluptatum recusandae iusto sint delectus quaerat possimus?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, ipsum numquam velit, corrupti tenetur ab nam quia fugiat consequatur ex, dicta accusamus minus sapiente? Atque libero corrupti nostrum ad illo?</p>
+        <div class="icons-container">
+            <div class="icons">
+                <i class="fas fa-map">
+                </i>
+                <span>top destination</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-map">
+
+                </i>
+                <span>top destination</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-map">
+
+                </i>
+                <span>top destination</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
 
 <section class="footer">
     <div class="box-container">
@@ -60,3 +96,4 @@
     <script src="scrips.js"></script>    
     </body>
 </html>
+
