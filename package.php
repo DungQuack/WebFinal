@@ -28,6 +28,159 @@
     
 <div class="heading" style="background:url(/picture/AboutUs.jpg) no-repeat"><h1>packages</h1></div>
 
+<section class="packages">
+    <h1 class="heading-title">top destinations</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>1</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>2</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>3</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>4</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>5</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>6</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>7</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>8</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>9</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>10</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>11</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>12</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="picture/Hotel.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>13</h3>
+                <p>lorem ipsum dolor sit amet consectetur adipiscing elit. Perferendis, perspiciatis</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+    </div>
+    <div class="load-more"><span class="btn">load more</span></div>
+</section>
+
+
+
+
 
 <section class="footer">
     <div class="box-container">

@@ -43,16 +43,68 @@
                 <span>top destination</span>
             </div>
             <div class="icons">
-                <i class="fas fa-map">
+                <i class="fas fa-hand-holding-usd">
+
+                </i>
+                <span>affordable price</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-headset">
 
                 </i>
                 <span>top destination</span>
             </div>
-            <div class="icons">
-                <i class="fas fa-map">
+        </div>
+    </div>
+</section>
 
-                </i>
-                <span>top destination</span>
+
+<section class="reviews">
+    <div class="swiper reviews-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
+                <h3> khon demo</h3>
+                <span>traveler</span>
+                <img src="picture/Hotel.jpg" alt="">
+
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
+                <h3> khon demo</h3>
+                <span>traveler</span>
+                <img src="picture/Hotel.jpg" alt="">
+                
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+
+                </div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio recusandae maxime, aspernatur nihil at fuga nostrum voluptatibus eum ut cupiditate impedit fugit veniam, cum laudantium commodi odit autem inventore similique.</p>
+                <h3> khon demo</h3>
+                <span>traveler</span>
+                <img src="picture/Hotel.jpg" alt="">
+                
             </div>
         </div>
     </div>
